@@ -104,5 +104,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Oort-ysf/Blogs.git
+  repo: 
+    github: git@github.com:Oort-ysf/Blogs.git
+    gitee: git@gitee.com:Oort-ysf/Blogs.git
   branch: master
