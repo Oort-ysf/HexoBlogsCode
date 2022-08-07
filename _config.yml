@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Oort. - PersonalBlogs
+title: Oort.
 subtitle: 'Personal Blogs'
 description: 'This is personal blogs for Oort.'
 keywords:
 author: Oort
-language: cn
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
