@@ -265,3 +265,19 @@ canvas_ribbon:
 
 ~~~
 
+
+
+### 3.11、文章图片插入
+
+1、编辑博客配置文件 `_config.yml`
+
+~~~yaml
+post_asset_folder: true
+~~~
+
+2、编辑主题配置文件 `theme/next/_config.yml`
+
+~~~yaml
+fancybox: true
+~~~
+
